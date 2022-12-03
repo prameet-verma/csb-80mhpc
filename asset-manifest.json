@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prameet-verma.github.io/csb-80mhpc/static/css/main.24a8e956.chunk.css",
+    "main.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.d2f03fba.chunk.js",
+    "main.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.d2f03fba.chunk.js.map",
+    "runtime-main.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/runtime-main.6bc4323f.js",
+    "runtime-main.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/runtime-main.6bc4323f.js.map",
+    "static/js/2.b1647ad3.chunk.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/2.b1647ad3.chunk.js",
+    "static/js/2.b1647ad3.chunk.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/2.b1647ad3.chunk.js.map",
+    "index.html": "https://prameet-verma.github.io/csb-80mhpc/index.html",
+    "static/css/main.24a8e956.chunk.css.map": "https://prameet-verma.github.io/csb-80mhpc/static/css/main.24a8e956.chunk.css.map",
+    "static/js/2.b1647ad3.chunk.js.LICENSE.txt": "https://prameet-verma.github.io/csb-80mhpc/static/js/2.b1647ad3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bc4323f.js",
+    "static/js/2.b1647ad3.chunk.js",
+    "static/css/main.24a8e956.chunk.css",
+    "static/js/main.d2f03fba.chunk.js"
+  ]
+}
