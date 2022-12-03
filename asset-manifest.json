@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://prameet-verma.github.io/csb-80mhpc/static/css/main.24a8e956.chunk.css",
-    "main.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.51226255.chunk.js",
-    "main.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.51226255.chunk.js.map",
+    "main.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.6bda5b83.chunk.js",
+    "main.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.6bda5b83.chunk.js.map",
     "runtime-main.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/runtime-main.1f6c1ef6.js",
     "runtime-main.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/runtime-main.1f6c1ef6.js.map",
     "static/js/2.3b75ec14.chunk.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/2.3b75ec14.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1f6c1ef6.js",
     "static/js/2.3b75ec14.chunk.js",
     "static/css/main.24a8e956.chunk.css",
-    "static/js/main.51226255.chunk.js"
+    "static/js/main.6bda5b83.chunk.js"
   ]
 }
