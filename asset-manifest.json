@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://prameet-verma.github.io/csb-80mhpc/static/css/main.24a8e956.chunk.css",
-    "main.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.6bda5b83.chunk.js",
-    "main.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/main.6bda5b83.chunk.js.map",
-    "runtime-main.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/runtime-main.1f6c1ef6.js",
-    "runtime-main.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/runtime-main.1f6c1ef6.js.map",
-    "static/js/2.3b75ec14.chunk.js": "https://prameet-verma.github.io/csb-80mhpc/static/js/2.3b75ec14.chunk.js",
-    "static/js/2.3b75ec14.chunk.js.map": "https://prameet-verma.github.io/csb-80mhpc/static/js/2.3b75ec14.chunk.js.map",
-    "index.html": "https://prameet-verma.github.io/csb-80mhpc/index.html",
-    "static/css/main.24a8e956.chunk.css.map": "https://prameet-verma.github.io/csb-80mhpc/static/css/main.24a8e956.chunk.css.map",
-    "static/js/2.3b75ec14.chunk.js.LICENSE.txt": "https://prameet-verma.github.io/csb-80mhpc/static/js/2.3b75ec14.chunk.js.LICENSE.txt"
+    "main.css": "https://.github.io/csb-80mhpc/static/css/main.24a8e956.chunk.css",
+    "main.js": "https://.github.io/csb-80mhpc/static/js/main.de5fa4e1.chunk.js",
+    "main.js.map": "https://.github.io/csb-80mhpc/static/js/main.de5fa4e1.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-80mhpc/static/js/runtime-main.b180aa4d.js",
+    "runtime-main.js.map": "https://.github.io/csb-80mhpc/static/js/runtime-main.b180aa4d.js.map",
+    "static/js/2.15106032.chunk.js": "https://.github.io/csb-80mhpc/static/js/2.15106032.chunk.js",
+    "static/js/2.15106032.chunk.js.map": "https://.github.io/csb-80mhpc/static/js/2.15106032.chunk.js.map",
+    "index.html": "https://.github.io/csb-80mhpc/index.html",
+    "static/css/main.24a8e956.chunk.css.map": "https://.github.io/csb-80mhpc/static/css/main.24a8e956.chunk.css.map",
+    "static/js/2.15106032.chunk.js.LICENSE.txt": "https://.github.io/csb-80mhpc/static/js/2.15106032.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f6c1ef6.js",
-    "static/js/2.3b75ec14.chunk.js",
+    "static/js/runtime-main.b180aa4d.js",
+    "static/js/2.15106032.chunk.js",
     "static/css/main.24a8e956.chunk.css",
-    "static/js/main.6bda5b83.chunk.js"
+    "static/js/main.de5fa4e1.chunk.js"
   ]
 }
